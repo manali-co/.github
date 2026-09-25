@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you reuse the Manali Apps brand, lockups, icons or this profile material, please credit Manali and cite this repository."
+title: "Manali Apps: brand and organisation profile"
+type: dataset
+authors:
+  - name: "Manali"
+    alias: "manali-co"
+    website: "https://github.com/manali-co"
+  - family-names: "Agrawal"
+    given-names: "Ayush"
+repository-code: "https://github.com/manali-co/.github"
+url: "https://github.com/manali-co"
+license: CC-BY-4.0
+date-released: "2026-09-25"
+keywords:
+  - brand
+  - logo
+  - design-system

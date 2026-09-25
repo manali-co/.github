@@ -18,7 +18,7 @@ Hi. This is not a studio, a lab, or a stealth startup. It's a place where we bui
       <b><a href="https://github.com/manali-co/yapp">Yapp</a></b> · macOS<br>
       Hold a key, talk, and your Mac gets on with it while you're still talking. Speech stays on your machine; a small, fast decision model turns each locked-in phrase into an action, and code does the rest. It never asks "are you sure?". If it guessed wrong, say "undo" and move on with your life.<br>
       <a href="https://github.com/manali-co/yapp/actions/workflows/ci.yml"><img src="https://github.com/manali-co/yapp/actions/workflows/ci.yml/badge.svg?branch=dev" alt="ci"></a>
-      <img src="https://img.shields.io/badge/license-MIT-5B63C7" alt="MIT">
+      <img src="https://img.shields.io/badge/license-CC%20BY%204.0-5B63C7" alt="CC BY 4.0">
     </td>
   </tr>
   <tr>
@@ -30,7 +30,7 @@ Hi. This is not a studio, a lab, or a stealth startup. It's a place where we bui
       The question everyone asks at 9pm, answered before 9:20. Pick a mood, get ten films that are actually streaming on the services you already pay for, swipe to decide. Every swipe teaches it a little. Works for one person on a couch and, eventually, for the group that can't agree.<br>
       <a href="https://github.com/manali-co/what-should-we-watch/actions/workflows/ci.yml"><img src="https://github.com/manali-co/what-should-we-watch/actions/workflows/ci.yml/badge.svg?branch=dev" alt="CI"></a>
       <a href="https://github.com/manali-co/what-should-we-watch/actions/workflows/release.yml"><img src="https://github.com/manali-co/what-should-we-watch/actions/workflows/release.yml/badge.svg" alt="Release"></a>
-      <img src="https://img.shields.io/badge/license-MIT-4DBFB0" alt="MIT">
+      <img src="https://img.shields.io/badge/license-proprietary-C96A95" alt="proprietary">
     </td>
   </tr>
 </table>
@@ -42,7 +42,7 @@ More to come. We have a list. It's longer than it should be.
 - **Small pieces, one job each.** Every module gets run on its own before it's allowed to talk to the next one.
 - **Design first, code second.** Visuals are argued out in Claude Design and then ported. Nobody improvises a button in a PR.
 - **Boring CI, on purpose.** Lint, types and tests on every pull request. `feature/*` → `dev` → `main`, releases cut by release-please. Green or it doesn't go in.
-- **All of it is MIT.** Read it, fork it, tell us what we got wrong.
+- **Credit is the currency.** Yapp and the brand are CC BY 4.0: use them, just say where they came from. What Should We Watch is ours (proprietary, source-available), so read it, learn from it, ask before you ship it. Each repo has a `CITATION.cff` if you want to be formal about it.
 
 ## Want to collaborate?
 
