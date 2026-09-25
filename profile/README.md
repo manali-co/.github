@@ -48,6 +48,10 @@ More to come. We have a list. It's longer than it should be.
 
 Happy to. Open an issue, send a PR, or just start a discussion on one of the repos. If you've got a thing you wish existed and it fits here, we'd like to hear about it.
 
+## The website
+
+[manali-co.github.io](https://github.com/manali-co/manali-co.github.io) is the home page and blog (Next.js, on Vercel), with comments and reactions in GitHub Discussions and an email list you can join from any post. [manali-api](https://github.com/manali-co/manali-api) is the small Azure Functions backend behind the subscribe button. Posts are Markdown; people and agents write them the same way.
+
 ## Brand
 
 The ridge and the rising sun, the indigo and the gold, every lockup and icon size, and each app's icon live in [`brand/`](https://github.com/manali-co/.github/tree/main/brand). Each app has its own `brand/` folder too.
