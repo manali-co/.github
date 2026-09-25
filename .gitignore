@@ -1,0 +1,6 @@
+# not part of the repo
+*.zip
+.DS_Store
+*.__render.html
+/WSWW Brand.dc.html
+/brand/Manali Apps Brand Guide.dc.html
