@@ -7,8 +7,10 @@
 #       workflows only wait for approval from accounts brand-new to GitHub (so
 #       your identity, your agents and established bots never queue).
 # main: pull request required (0 approvals, threads resolved), linear history, no
-#       force-push, no deletion, admins included, and only ADMIN_USER may push or
-#       merge. On yapp the "ci" check must pass first.
+#       force-push, no deletion, and only ADMIN_USER may push or merge. Admins are not
+#       bound by the rules, so the owner can "bypass and merge" when needed (audited).
+#       A requested change is still addressed through the PR, not dismissed.
+#       On yapp the "ci" check must pass first.
 # dev:  fair game. Pull request required, nothing else. Skipped on repos that
 #       have no dev branch.
 set -euo pipefail
@@ -32,7 +34,7 @@ protect_main() {
   local repo="$1" checks="$2"
   gh api -X PUT "repos/$ORG/$repo/branches/main/protection" --input - <<JSON >/dev/null
 {"required_status_checks": $checks,
- "enforce_admins": true,
+ "enforce_admins": false,
  "required_pull_request_reviews": {"required_approving_review_count": 0, "dismiss_stale_reviews": true},
  "restrictions": {"users": ["$ADMIN_USER"], "teams": [], "apps": []},
  "required_linear_history": true, "allow_force_pushes": false, "allow_deletions": false,
