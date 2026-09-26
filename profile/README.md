@@ -33,9 +33,19 @@ Hi. This is not a studio, a lab, or a stealth startup. It's a place where we bui
       <img src="https://img.shields.io/badge/license-proprietary-C96A95" alt="proprietary">
     </td>
   </tr>
+  <tr>
+    <td width="96" align="center" valign="top">
+      <a href="https://personality.ception.one"><img src="https://raw.githubusercontent.com/manali-co/.github/main/brand/apps/spark-icon.png" width="72" alt="Spark icon"></a>
+    </td>
+    <td valign="top">
+      <b><a href="https://github.com/ayushm-agrawal/spark-personality-test">Spark</a></b> · Web<br>
+      A personality test that makes up the questions as it goes. Each one is written from your last answer, the next one is already waiting because it guessed what you'd pick, and at the end it tells you which kind of teammate you are. Built to see how far an adaptive LLM loop could be pushed before it stopped feeling instant.<br>
+      <a href="https://personality.ception.one"><img src="https://img.shields.io/badge/live-personality.ception.one-8B5CF6" alt="live"></a>
+    </td>
+  </tr>
 </table>
 
-More to come. We have a list. It's longer than it should be.
+More on the way. The list is short. It won't stay that way.
 
 ## How this works
 
