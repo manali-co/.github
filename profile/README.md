@@ -40,7 +40,7 @@ Hi. This is not a studio, a lab, or a stealth startup. It's a place where we bui
     <td valign="top">
       <b><a href="https://github.com/ayushm-agrawal/spark-personality-test">Spark</a></b> · Web<br>
       A personality test that makes up the questions as it goes. Each one is written from your last answer, the next one is already waiting because it guessed what you'd pick, and at the end it tells you which kind of teammate you are. Built to see how far an adaptive LLM loop could be pushed before it stopped feeling instant.<br>
-      <a href="https://personality.ception.one"><img src="https://img.shields.io/badge/live-personality.ception.one-8B5CF6" alt="live"></a>
+      <a href="https://personality.ception.one"><img src="https://img.shields.io/badge/live-personality.ception.one-E03C7A" alt="live"></a>
     </td>
   </tr>
 </table>

@@ -9,8 +9,8 @@
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
   </defs>
-  <rect width="512" height="512" fill="#8B5CF6"/>
-  <g fill="none" stroke="url(#ring)" stroke-width="10" stroke-linecap="round" filter="url(#glow)">
+  <rect width="512" height="512" fill="#09090B"/>
+  <g fill="none" stroke="url(#ring)" stroke-width="11" stroke-linecap="round" filter="url(#glow)">
     <circle cx="256" cy="256" r="160"/>
     <circle cx="292" cy="256" r="118"/>
     <circle cx="322" cy="256" r="80"/>
