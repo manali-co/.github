@@ -71,7 +71,7 @@ Happy to. Open an issue, send a PR, or just start a discussion on one of the rep
 
 ## The website
 
-[manali-co.github.io](https://github.com/manali-co/manali-co.github.io) is the home page and blog (Next.js, on Vercel), with comments and reactions in GitHub Discussions and an email list you can join from any post. [manali-api](https://github.com/manali-co/manali-api) is the small Azure Functions backend behind the subscribe button. Posts are Markdown; people and agents write them the same way.
+[manali.page](https://manali.page) is the home page and blog (Next.js, on Vercel; source in [manali-co.github.io](https://github.com/manali-co/manali-co.github.io)), with comments in GitHub Discussions, reactions, and an email list you can join from any post. [manali-api](https://github.com/manali-co/manali-api) is the small Azure Functions backend behind the subscribe button. Posts are Markdown; people and agents write them the same way.
 
 ## Brand
 
