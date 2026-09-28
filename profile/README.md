@@ -43,6 +43,17 @@ Hi. This is not a studio, a lab, or a stealth startup. It's a place where we bui
       <a href="https://personality.ception.one"><img src="https://img.shields.io/badge/live-personality.ception.one-E03C7A" alt="live"></a>
     </td>
   </tr>
+  <tr>
+    <td width="96" align="center" valign="top">
+      <a href="https://manali.page/blog/screening-rounds-just-changed/"><img src="https://raw.githubusercontent.com/manali-co/.github/main/brand/apps/portfolio-icon.png" width="72" alt="Personal Portfolio icon"></a>
+    </td>
+    <td valign="top">
+      <b><a href="https://manali.page/blog/screening-rounds-just-changed/">Personal Portfolio</a></b> · Web<br>
+      A new way to run a recruiter screen. Your own agent takes the call on your own site, answers from a record you control, scrolls to the evidence, and hands the recruiter notes. No calendar. Very early; one instance so far.<br>
+      <a href="https://www.ayushmagrawal.com"><img src="https://img.shields.io/badge/early%20preview-ayushmagrawal.com-D2491F" alt="early preview"></a>
+      <img src="https://img.shields.io/badge/source-private-84839E" alt="private">
+    </td>
+  </tr>
 </table>
 
 More on the way. The list is short. It won't stay that way.
