@@ -23,13 +23,12 @@ Hi. This is not a studio, a lab, or a stealth startup. It's a place where we bui
   </tr>
   <tr>
     <td width="96" align="center" valign="top">
-      <a href="https://github.com/manali-co/what-should-we-watch"><img src="https://raw.githubusercontent.com/manali-co/.github/main/brand/apps/what-should-we-watch-icon.png" width="72" alt="What Should We Watch icon"></a>
+      <a href="https://manali.page/what-should-we-watch/"><img src="https://raw.githubusercontent.com/manali-co/.github/main/brand/apps/what-should-we-watch-icon.png" width="72" alt="What Should We Watch icon"></a>
     </td>
     <td valign="top">
-      <b><a href="https://github.com/manali-co/what-should-we-watch">What Should We Watch</a></b> · iOS &amp; Android<br>
+      <b><a href="https://manali.page/what-should-we-watch/">What Should We Watch</a></b> · iOS &amp; Android<br>
       The question everyone asks at 9pm, answered before 9:20. Pick a mood, get ten films that are actually streaming on the services you already pay for, swipe to decide. Every swipe teaches it a little. Works for one person on a couch and, eventually, for the group that can't agree.<br>
-      <a href="https://github.com/manali-co/what-should-we-watch/actions/workflows/ci.yml"><img src="https://github.com/manali-co/what-should-we-watch/actions/workflows/ci.yml/badge.svg?branch=dev" alt="CI"></a>
-      <a href="https://github.com/manali-co/what-should-we-watch/actions/workflows/release.yml"><img src="https://github.com/manali-co/what-should-we-watch/actions/workflows/release.yml/badge.svg" alt="Release"></a>
+      <img src="https://img.shields.io/badge/App%20Store-coming%20soon-1B1D22" alt="coming to the App Store">
       <img src="https://img.shields.io/badge/license-proprietary-C96A95" alt="proprietary">
     </td>
   </tr>
